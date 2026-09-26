@@ -20,7 +20,6 @@ def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|
 	
 	dot_product = []
 	for row in a:
-		res = 0
 		res = np.dot(row, b)
 		dot_product.append(res)
 
