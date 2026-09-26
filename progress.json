@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:49:52.799Z",
+  "generated_at": "2026-09-26T02:51:56.745Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -63,6 +63,17 @@
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-26T02:49:52.305Z",
       "last_pushed_at": "2026-09-26T02:49:52.305Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-09-26T02:51:56.067Z",
+      "last_pushed_at": "2026-09-26T02:51:56.067Z"
     }
   }
 }
